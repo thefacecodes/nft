@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+@import url('http://fonts.cdnfonts.com/css/clash-display');
+
+/* @font-face {
+    font-family: "Clash Display";
+    src: url("http://fonts.cdnfonts.com/css/clash-display")
+} */
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 340px;
+    min-height: 400px;
+  }
+
+  /* .swiper-slide img {
+    display: block;
+    width: 100%;
+  } */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
