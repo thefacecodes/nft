@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![](./public/screenshot1.png)
+![](./public/snapshot.png)
 
 ### Link
 
